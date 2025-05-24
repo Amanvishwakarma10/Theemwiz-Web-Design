@@ -6,7 +6,7 @@ import laptop from "../assets/laptopHero.svg";
 import spiral from "../assets/SpiralHero.svg";
 import circle from "../assets/Circle.svg";
 import sparkle from "../assets/Sparkle.svg";
-import spiralcircle from "../assets/spiralcircle.svg";
+import spiralcircle from "../assets/spiralCircle.svg";
 import shapeyellow from "../assets/Shape3.svg";
 import whitebox from "../assets/whitebox.svg";
 import arrow from "../assets/arrow.svg";
