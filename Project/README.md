@@ -11,9 +11,9 @@ Dont forget to star //
 // pull requests are welcome 
 
 after cloning :
-cd project
-npm install
-npm run dev
+cd project,
+npm install,
+npm run dev.
 
 output: 
 
